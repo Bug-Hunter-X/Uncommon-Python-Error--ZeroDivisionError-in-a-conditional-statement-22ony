@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates an uncommon error. The function attempts to perform a division operation that can result in a ZeroDivisionError if the first argument is 0. The bug is that it does not handle that edge case properly. The solution provides a more robust version of the function that checks for this edge case.
